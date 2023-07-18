@@ -1,0 +1,15 @@
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.exe
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.pdb
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.exe
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.pdb
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\bin\Debug\conditionsPractice.exe
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\bin\Debug\conditionsPractice.pdb
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.exe
+C:\Users\Vladyslav Kukhtin\Desktop\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.pdb
